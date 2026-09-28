@@ -1,8 +1,12 @@
 @import "tailwindcss";
+@plugin "daisyui";
 
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --color-college-red: #d41429;
+  --color-college-blue: #05a0dd;
+  --color-college-yellow: #ecac06;
 }
 
 html,
