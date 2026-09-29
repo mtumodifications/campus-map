@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mtumods-campus",
+  "main": "./workers/app.ts",
+  "compatibility_date": "2026-09-26",
+  "observability": {
+    "enabled": true
+  }
+}
